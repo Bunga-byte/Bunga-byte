@@ -14,11 +14,9 @@
 <h3>Project Reports</h3>
 <table>
   <thead align="center">
-    <tr border: none>
       <td><b>🚧 Project Name 🚧 </b></td>
       <td><b>⭐ Overview ⭐</b></td>
       <td><b>📚 PDF Link 📚</b></td>
-    </tr>
   </thead>
   <tbody>
     <tr>
