@@ -54,6 +54,11 @@
       <td><b> Only the code for this. Verilog Code that tracks, Speed, Altitude, Thrust, and Fuel to Simulate a real landing of a lunar module 🚀 </b></td>
       <td><img alt="PDF Link" src=""/></td>
     </tr>
+    <tr>
+      <td> <b>Mental Health Action Week</b></td>
+      <td><b> Week long Student ran event focusing on student's mental health and their journey though college! </b></td>
+      <td><img alt="How to Plan a Kickoff PDF" src=""/></td>
+    </tr>
   </tbody>
 </table>
 
