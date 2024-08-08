@@ -22,7 +22,7 @@
   </thead>
   <tbody>
     <tr>
-      <td> <b>Verilog and VHDL Resolver      </b></td>
+      <td> <b>Verilog and VHDL Resolver</b></td>
       <td><b> Created at my previous Internship at BorgWarner. Developed a User Interface using a PMOD OLED display and Keypad connected to an FPGA board to allow for multiple user inputs and data outputs to be taken and seen. Create a fully functioning Resolver in mutliple coding languages 🏎️  </b></td>
       <td><img alt="PDF Link" src=""/></td>
     </tr>
