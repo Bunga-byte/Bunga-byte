@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td align="center"> <b>Mental Health Action Week</b></td>
-      <td align="center"><b> Week long Student ran event focusing on student's mental health and their journey though college! </b></td>
+      <td align="center"><b> Week long Student ran event focusing on student's mental health and their journey though college! 🧠 </b></td>
       <td align="center"><a href="https://drive.google.com/file/d/1_M6ljHMry75xhpMOboWIzeEMezfLChrf/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
   </tbody>
