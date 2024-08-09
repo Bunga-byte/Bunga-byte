@@ -20,48 +20,48 @@
   </thead>
   <tbody>
     <tr>
-      <td> <b>Verilog and VHDL Resolver</b></td>
-      <td><b> Created at my previous Internship at BorgWarner. Developed a User Interface using a PMOD OLED display and Keypad connected to an FPGA board to allow for multiple user inputs and data outputs to be taken and seen. Create a fully functioning Resolver in mutliple coding languages 🏎️  </b></td>
-      <td><img alt="PDF Link" src=""/></td>
+      <td align="center"> <b>Verilog and VHDL Resolver</b></td>
+      <td align="center"><b> Created at my previous Internship at BorgWarner. Developed a User Interface using a PMOD OLED display and Keypad connected to an FPGA board to allow for multiple user inputs and data outputs to be taken and seen. Create a fully functioning Resolver in mutliple coding languages 🏎️  </b></td>
+      <td align="center">Code Restricted</td>
     </tr>
     <tr>
-      <td> <b>Optical Heartrate Sensor</b></td>
-      <td><b> Heartrate sensor built on a breadboard that uses Infrared Light to detect heartbeats 💓  </b></td>
-      <td><img alt="PDF Link" src=""/></td>
+      <td align="center"> <b>Optical Heartrate Sensor</b></td>
+      <td align="center"><b> Heartrate sensor built on a breadboard that uses Infrared Light to detect heartbeats 💓  </b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1uzxz8KX7Bqr7MV6KBKUzBV37WZ7DhOQ3/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
 	  <tr>
-      <td> <b>Audio Equalizer</b></td>
-      <td><b> Stereo System built on a breadboard that uses Filter and Amplifiers to produce audio  🎧  </b></td>
-      <td><img alt="PDF Link" src=""/></td>
+      <td align="center"> <b>Audio Equalizer</b></td>
+      <td align="center"><b> Stereo System built on a breadboard that uses Filter and Amplifiers to produce audio  🎧  </b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1YaYcPNTp_vvskc1ZPWXIGwfBKB0CDsgo/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
     <tr>
-      <td> <b>Basic Verilog Project</b></td>
-      <td><b> Combination of State Machines and Boolean Logic Applications 😮 </b></td>
-      <td><img alt="PDF Link" src=""/></td>
+      <td align="center"> <b>Basic Verilog Project</b></td>
+      <td align="center"><b> Combination of State Machines and Boolean Logic Applications 😮 </b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1PRXQ5qc597bFSCSGh0nX8v0VsMl27Uwx/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
     <tr>
-      <td> <b>Python In Data Science Project</b></td>
-      <td><b>My code was unfortunatly deleted once the course ended, but I have my report explaining the code! 😔</b></td>
-      <td><img alt="PDF Link" src=""/></td>
+      <td align="center"> <b>Python In Data Science Project</b></td>
+      <td align="center"><b>My code was unfortunatly deleted once the course ended, but I have my report explaining the code! 😔</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1frC4kuPlbO5YfBdPwl5PfcazcZOEC_XT/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
     <tr>
-      <td> <b>Natural Catalyst MATLAB Project</b></td>
-      <td><b> Data manipulation and evalution on MATLAB in the context of Detergent Enzymes and Catalysts 🧼 </b></td>
-      <td><img alt="PDF Link" src=""/></td>
+      <td align="center"> <b>Natural Catalyst MATLAB Project</b></td>
+      <td align="center"><b> Data manipulation and evalution on MATLAB in the context of Detergent Enzymes and Catalysts 🧼 </b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1y7i5iyHagyeB7ZdFLSXgs4p_F7OC-L2p/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
     <tr>
-      <td> <b>Verilog Lunar Lander</b></td>
-      <td><b> Only the code for this. Verilog Code that tracks, Speed, Altitude, Thrust, and Fuel to Simulate a real landing of a lunar module 🚀 </b></td>
-      <td><img alt="PDF Link" src=""/></td>
+      <td align="center"> <b>Verilog Lunar Lander</b></td>
+      <td align="center"><b> Only the code for this. Verilog Code that tracks, Speed, Altitude, Thrust, and Fuel to Simulate a real landing of a lunar module 🚀 </b></td>
+      <td align="center"><a href="https://github.com/Bunga-byte/LunarLander/blob/1192c6faedb12d1421a01f947195729af3d8621f/LunarLander" target="_blank">PDF</a></td>
     </tr>
     <tr>
-      <td> <b>Mental Health Action Week</b></td>
-      <td><b> Week long Student ran event focusing on student's mental health and their journey though college! </b></td>
-      <td><img alt="How to Plan a Kickoff PDF" src=""/></td>
+      <td align="center"> <b>Mental Health Action Week</b></td>
+      <td align="center"><b> Week long Student ran event focusing on student's mental health and their journey though college! </b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1_M6ljHMry75xhpMOboWIzeEMezfLChrf/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
   </tbody>
 </table>
 
-<p align="center">  Here is a link to my Resume as well! <img alt="Resume Link" src=""/> </p>
+<p align="center">  Here is a link to my Resume as well! <a href="https://drive.google.com/file/d/1fWb0JQBb1xNVTlOr5hvZLXHcdZXOnR4X/view?usp=sharing" target="_blank">Resume</a> </p>
 
-<p> Thank you for checking out my Projects! My previous Manager listed my top professional skills as; <b>Initiative, Dependability, Problem Solving, and Communication </b>! If you have any questions, please reach out to me at purdueade3@gmail.com !</p>
+<p> Thank you for checking out my Projects! My previous Manager listed my top professional skills as; <b>Initiative, Dependability, Problem Solving, </b> and <b> Communication </b>! If you have any questions, please reach out to me at purdueade3@gmail.com !</p>
