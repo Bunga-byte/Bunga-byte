@@ -52,7 +52,7 @@
     <tr>
       <td align="center"> <b>Verilog Lunar Lander</b></td>
       <td align="center"><b> Only the code for this. Verilog Code that tracks, Speed, Altitude, Thrust, and Fuel to Simulate a real landing of a lunar module 🚀 </b></td>
-      <td align="center"><a href="https://github.com/Bunga-byte/LunarLander/blob/1192c6faedb12d1421a01f947195729af3d8621f/LunarLander" target="_blank">PDF</a></td>
+      <td align="center"><a href="https://github.com/Bunga-byte/LunarLander/blob/1192c6faedb12d1421a01f947195729af3d8621f/LunarLander" target="_blank">CODE</a></td>
     </tr>
     <tr>
       <td align="center"> <b>Mental Health Action Week</b></td>
