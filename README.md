@@ -16,7 +16,7 @@
   <thead align="center">
       <td><b>🚧 Project Name 🚧 </b></td>
       <td><b>⭐ Overview ⭐</b></td>
-      <td><b>📚 PDF Link 📚</b></td>
+      <td><b>📚 Resource Link 📚</b></td>
   </thead>
   <tbody>
     <tr>
