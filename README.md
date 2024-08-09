@@ -45,7 +45,7 @@
       <td align="center"><a href="https://drive.google.com/file/d/1frC4kuPlbO5YfBdPwl5PfcazcZOEC_XT/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
     <tr>
-      <td align="center"> <b>Natural Catalyst MATLAB Project</b></td>
+      <td align="center"> <b>Natural Catalyst MATLAB Team Project</b></td>
       <td align="center"><b> Data manipulation and evalution on MATLAB in the context of Detergent Enzymes and Catalysts 🧼 </b></td>
       <td align="center"><a href="https://drive.google.com/file/d/1y7i5iyHagyeB7ZdFLSXgs4p_F7OC-L2p/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
