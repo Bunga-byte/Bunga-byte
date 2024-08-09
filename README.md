@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1620797763/38192/dog_smile.png?1620797763" width="30"/> Hello! Welcome to my Portfolio.</h1>
 
 
-<p>My name is <b> Eli Ade </b>, I am an <b> Electrical Engineer </b> studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="20"/> I am currently pursuing my bachelor's degree in ECE with a Minor and Certificate in <b> Semiconductors and Microelectronics </b> <img src="https://th.bing.com/th/id/OIP.jdLRkfpMfwd0PcVfq-ZO3wHaD4?w=341&h=180&c=7&r=0&o=5&pid=1.7" width="40"/> Outside of classes I am the <b> Chief of Staff </b> for the <b>Purdue Student Goverment</b> and I serve all students at every chance I get! Now with my Introduction over, lets dive into my projects! </p>
+<p>My name is <b> Eli Ade</b>, I am an <b> Electrical Engineer </b> studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="20"/> I am currently pursuing my bachelor's degree in ECE with a Minor and Certificate in <b> Semiconductors and Microelectronics </b> <img src="https://th.bing.com/th/id/OIP.jdLRkfpMfwd0PcVfq-ZO3wHaD4?w=341&h=180&c=7&r=0&o=5&pid=1.7" width="40"/> Outside of classes I am the <b> Chief of Staff </b> for the <b>Purdue Student Goverment</b> and I serve all students at every chance I get! Now with my Introduction over, lets dive into my projects! </p>
 <p align="center"> <img src="https://th.bing.com/th/id/OIP.8n4E1S2qV49vykWdWkDeygHaEK?w=276&h=180&c=7&r=0&o=5&pid=1.7" width="220"/></p>
 <h3>The coding languages I use</h3>
 <p>
