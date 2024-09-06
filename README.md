@@ -23,7 +23,7 @@
   <tbody>
     <tr>
       <td align="center"> <b>Purdue Student Government</b></td>
-      <td align="center"><b> Updating the Indiana Lifeline Law to further Protect Students! </b></td>
+      <td align="center"><b> Updating the Indiana Lifeline Law to further Protect Students! 🏥</b></td>
       <td align="center"><a href="https://www.studentsforlifelinelaw.org/" target="_blank">Wesbite</a></td>
     </tr>
     <tr>
