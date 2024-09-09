@@ -1,7 +1,7 @@
 <h1><img src="https://www.bing.com/th/id/OGC.b1703b560c872b0b9370940a89337edd?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fb1703b560c872b0b9370940a89337edd%2ftenor.gif%3fitemid%3d16706636&ehk=5485nEV%2fdZv6L%2b8DZB5A6481slV%2fwCNOnOcUNMSF9VE%3d" width="50"/> Hello! Welcome to my Portfolio.</h1>
 
 
-<p>My name is <b> Eli Ade</b>, I am an <b> Electrical Engineer </b> studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="20"/> I am currently pursuing my bachelor's degree in ECE with a Minor and Certificate in <b> Semiconductors and Microelectronics </b> <img src="https://th.bing.com/th/id/OIP.jdLRkfpMfwd0PcVfq-ZO3wHaD4?w=341&h=180&c=7&r=0&o=5&pid=1.7" width="40"/> Outside of classes I am the <b> Chief of Staff </b> for the <b>Purdue Student Goverment</b> <img src="https://th.bing.com/th/id/OIP.iUOLwjv4c6k0g9cfXMO3nwAAAA?w=158&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="25"/> and I serve all students at every chance I get! Now with my Introduction over, lets dive into my projects! </p>
+<p>My name is <b> Eli Ade</b>, I am an <b> Electrical Engineer </b> studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="20"/> I am currently pursuing my bachelor's degree in ECE with a Minor and Certificate in <b> Semiconductors and Microelectronics </b> <img src="https://th.bing.com/th/id/OIP.jdLRkfpMfwd0PcVfq-ZO3wHaD4?w=341&h=180&c=7&r=0&o=5&pid=1.7" width="40"/> Outside of classes I am the <b> Chief of Staff </b> for the <b>Purdue Student Goverment</b> <img src="https://th.bing.com/th/id/OIP.iUOLwjv4c6k0g9cfXMO3nwAAAA?w=158&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="20"/> and I serve all students at every chance I get! I am also an <b>ECE Ambassador</b> <img src="https://engineering.purdue.edu/ECEA/images/logo.jpg" width="20"/> which allows me to inspire future Engineers to join Purdue’s ECE program through events, tours, and professional development opportunities! Now with my Introduction over, lets dive into my projects! </p>
 
 <p align="center"> <img src="https://th.bing.com/th/id/OIP.8n4E1S2qV49vykWdWkDeygHaEK?w=276&h=180&c=7&r=0&o=5&pid=1.7" width="220"/></p>
 
@@ -69,9 +69,17 @@
   </tbody>
 </table>
 
-<p align="center">  Here is a link to my <a href="https://drive.google.com/file/d/1fWb0JQBb1xNVTlOr5hvZLXHcdZXOnR4X/view?usp=sharing" target="_blank">Resume</a> as well! </p>
+<p align="center">  Here is a link to my <a href="https://drive.google.com/file/d/1sEvNISNkcfeXKqIyYlIfi1hIm61LoQv1/view?usp=sharing" target="_blank">Resume</a> as well! </p>
 
 <p align="center"> Thank you for checking out my Projects! My previous Manager listed my top professional skills as; <b>Initiative, Dependability, Problem Solving, </b> and <b> Communication </b>! If you have any questions, please reach out to me at purdueade3@gmail.com !</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
