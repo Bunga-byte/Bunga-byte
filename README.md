@@ -69,7 +69,7 @@
   </tbody>
 </table>
 
-<p align="center">  Here is a link to my <a href="https://drive.google.com/file/d/1sEvNISNkcfeXKqIyYlIfi1hIm61LoQv1/view?usp=sharing" target="_blank">Resume</a> as well! </p>
+<p align="center">  Here is a link to my <a href="https://drive.google.com/file/d/15RwKdm_-Zdm6Drnq_rQ1QBUGN_Lrp0B2/view?usp=sharing" target="_blank">Resume</a> as well! </p>
 
 <p align="center"> Thank you for checking out my Projects! My previous Manager listed my top professional skills as; <b>Initiative, Dependability, Problem Solving, </b> and <b> Communication </b>! If you have any questions, please reach out to me at purdueade3@gmail.com !</p>
 <br />
