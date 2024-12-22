@@ -22,9 +22,19 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center"> <b>Winter Break 2024 Projects</b></td>
+      <td align="center"><b>Collection of Projects I did over Winter Break 2024, it focuses on a Final Project of a Wireless Turret using Arduino Uno and Mega and ESP32s 📡</b></td>
+      <td align="center"><a href="https://github.com/Bunga-byte/Winter2024" target="_blank">Repository</a></td>
+    </tr>
+    <tr>
+      <td align="center"> <b>Water System</b></td>
+      <td align="center"><b>This project is a water control system that utilizes an Arduino-based setup to autonomously water my plants based on soil moisture 🪴</b></td>
+      <td align="center"><a href="https://github.com/Bunga-byte/WaterSystem" target="_blank">Repository</a></td>
+    </tr>
+    <tr>
       <td align="center"> <b>Purdue Student Government</b></td>
       <td align="center"><b> Updating the Indiana Lifeline Law to further Protect Students! 🏥</b></td>
-      <td align="center"><a href="https://www.studentsforlifelinelaw.org/" target="_blank">Wesbite</a></td>
+      <td align="center"><a href="https://www.makegooddecisions.org/" target="_blank">MGD Wesbite</a> <br> <a href="http://indianalifeline.org/about.html" target="_blank"> LLL Wesbite</a></td>
     </tr>
     <tr>
       <td align="center"> <b>Verilog and VHDL Resolver</b></td>
