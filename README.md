@@ -32,6 +32,11 @@
       <td align="center"><a href="https://github.com/Bunga-byte/WaterSystem" target="_blank">Repository</a></td>
     </tr>
     <tr>
+      <td align="center"> <b>ECE337 Final Project</b></td>
+      <td align="center"><b>USB Full-Speed Bulk-Transfer Endpoint AHB-Lite SoC Module 💾</b></td>
+      <td align="center"><b>Code Restricted, Request to see it!</b></td>
+    </tr>
+    <tr>
       <td align="center"> <b>Purdue Student Government</b></td>
       <td align="center"><b> Updating the Indiana Lifeline Law to further Protect Students! 🏥</b></td>
       <td align="center"><a href="https://www.makegooddecisions.org/" target="_blank">MGD Wesbite</a> <br> <a href="http://indianalifeline.org/about.html" target="_blank"> LLL Wesbite</a></td>
