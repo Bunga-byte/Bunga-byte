@@ -22,6 +22,11 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center"> <b>Mental Health Action Week 2025</b></td>
+      <td align="center"><b> Served as Vice-President and planned the Kickoff Event through PSG! 🧠 </b></td>
+      <td align="center"><a href="https://www.starcitytv.com/news/purdue/purdue-students-urged-to-prioritize-well-being-during-mental-health-action-week/article_e1e14348-f86c-11ef-8fc3-93e290dd29cf.html" target="_blank">StarCity News Article</a> <br> <a href="https://www.purdueexponent.org/campus/features/purdue-mental-health-action-week/article_936a7c04-f86f-11ef-9c9b-7b5405f37b10.html" target="_blank">Exponent Article</a> </td>
+    </tr>
+    <tr>
       <td align="center"> <b>Winter Break 2024 Projects</b></td>
       <td align="center"><b>Collection of Projects I did over Winter Break 2024, it focuses on a Final Project of a Wireless Turret using Arduino Uno and Mega and ESP32s 📡</b></td>
       <td align="center"><a href="https://github.com/Bunga-byte/Winter2024" target="_blank">Repository</a></td>
@@ -77,7 +82,7 @@
       <td align="center"><a href="https://github.com/Bunga-byte/LunarLander/blob/1192c6faedb12d1421a01f947195729af3d8621f/LunarLander" target="_blank">CODE</a></td>
     </tr>
     <tr>
-      <td align="center"> <b>Mental Health Action Week</b></td>
+      <td align="center"> <b>Mental Health Action Week 2023-2024</b></td>
       <td align="center"><b> Week long Student ran event focusing on student's mental health and their journey though college! 🧠 </b></td>
       <td align="center"><a href="https://drive.google.com/file/d/1_M6ljHMry75xhpMOboWIzeEMezfLChrf/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
