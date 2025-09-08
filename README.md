@@ -1,12 +1,13 @@
 <h1><img src="https://www.bing.com/th/id/OGC.b1703b560c872b0b9370940a89337edd?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fb1703b560c872b0b9370940a89337edd%2ftenor.gif%3fitemid%3d16706636&ehk=5485nEV%2fdZv6L%2b8DZB5A6481slV%2fwCNOnOcUNMSF9VE%3d" width="50"/> Hello! Welcome to my Portfolio.</h1>
 
 
-<p>My name is <b> Eli Ade</b>, I am an <b> Electrical Engineer </b> studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="30"/> I am currently pursuing my bachelor's degree in ECE with a Concentration and Certificate in <b> Semiconductors and Microelectronics </b> <img src="https://th.bing.com/th/id/OIP.jdLRkfpMfwd0PcVfq-ZO3wHaD4?w=341&h=180&c=7&r=0&o=5&pid=1.7" width="40"/>. I am also a <b>Student Researcher</b> at <b>Birck Nanotechnology Center</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Doublegate_FinFET-en.svg/1200px-Doublegate_FinFET-en.svg.png" width="40"/>at Purdue where I research the future of Semiconductor Manufacturing!
+<p>My name is <b> Eli Ade</b>, I am an <b> Electrical Engineer </b> studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="15"/> I am currently pursuing my bachelor's degree in ECE with a Concentration and Certificate in <b> Semiconductors and Microelectronics </b> <img src="https://th.bing.com/th/id/OIP.jdLRkfpMfwd0PcVfq-ZO3wHaD4?w=341&h=180&c=7&r=0&o=5&pid=1.7" width="20"/>. I am also a <b>Student Researcher</b> at <b>Birck Nanotechnology Center</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Doublegate_FinFET-en.svg/1200px-Doublegate_FinFET-en.svg.png" width="20"/>at Purdue where I research the future of Semiconductor Manufacturing!
 <br />
 <br />
-Outside of classes I am the <b> President </b> of the <b> Purdue Mortar Board Barbara Cook Chapter </b> <img src="https://pbs.twimg.com/profile_images/732376956126142465/51By5_nl_400x400.jpg" width="30"/> and the <b> Chief of Staff </b> for the <b>Purdue Student Goverment</b> <img src="https://static1.squarespace.com/static/628e8fb3741fca1eabd8179e/t/62900b639d73a7142be8a5ab/1729734722492/PSG+Logo.png?format=1500w" width="30"/> where I serve all Students, Alumni, and Executives at every chance I get! I am also an <b>ECE Ambassador</b> <img src="https://engineering.purdue.edu/ECEA/images/logo.jpg" width="30"/> which allows me to inspire future Engineers to join Purdue’s ECE program through events, tours, and professional development opportunities! Now with my Introduction over, lets dive into my projects! </p>
+Outside of classes I am the <b> President </b> of the <b> Purdue Mortar Board Barbara Cook Chapter </b> <img src="https://pbs.twimg.com/profile_images/732376956126142465/51By5_nl_400x400.jpg" width="15"/> and the <b> Chief of Staff </b> for the <b>Purdue Student Goverment</b> <img src="https://static1.squarespace.com/static/628e8fb3741fca1eabd8179e/t/62900b639d73a7142be8a5ab/1729734722492/PSG+Logo.png?format=1500w" width="15"/> where I serve all Students, Alumni, and Executives at every chance I get! I am also an <b>ECE Ambassador</b> <img src="https://engineering.purdue.edu/ECEA/images/logo.jpg" width="15"/> which allows me to inspire future Engineers to join Purdue’s ECE program through events, tours, and professional development opportunities! Now with my Introduction over, lets dive into my projects! </p>
 
-<p align="center"> <img src="https://th.bing.com/th/id/OIP.8n4E1S2qV49vykWdWkDeygHaEK?w=276&h=180&c=7&r=0&o=5&pid=1.7" width="220"/></p>
+<p align="center"> <img src="https://i.imgur.com/wA1PIj8.png" width="220"/></p>
+<p align="center"> "Fab Rat" - Someone who spends an abnormal amount of time in the Fab</p>
 
 <h3>The coding languages I use</h3>
 <p>
@@ -24,6 +25,11 @@ Outside of classes I am the <b> President </b> of the <b> Purdue Mortar Board Ba
       <td><b>📚 Link 📚</b></td>
   </thead>
   <tbody>
+	<tr>
+      <td align="center"> <b>Advanced Packaging Research</b></td>
+      <td align="center"><b>For my Senior Design at Purdue, I decided to join Birck Nanotechnology and research Advance Packaging and Heterogeneous Integration</b></td>
+      <td align="center"><a href="https://birck.research.purdue.edu/" target="_blank">Birck Homepage</a></td>
+    </tr>
 	<tr>
       <td align="center"> <b>Microeletronics Class</b></td>
       <td align="center"><b>*Trying* to teach a day-long course at my high school about Microelectronics and help them build a simple Pong Game on an ESP32 </b></td>
@@ -135,5 +141,5 @@ Outside of classes I am the <b> President </b> of the <b> Purdue Mortar Board Ba
 <br />
 <br />
 <br />
-<p align="center"> If you scrolled this far, thank you! You will also need a break, so here is another cute dog! </p>
+<p align="center"> If you scrolled this far, thank you! You will also need a break, so here is a cute dog! </p>
 <p align="center"><img src="https://www.bing.com/th/id/OGC.c58b0018ee104c28ab6c18fa1021a57e?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fezSWR846P5qGA%2fgiphy.gif&ehk=GwokyenXY7RZK80E9jhX7FeONKElY8njAGnXuQdgXT4%3d" width="220"/> </p>
